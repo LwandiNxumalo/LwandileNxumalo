@@ -1,11 +1,11 @@
-# Lwandile-Nxumalo
-
+<!-- Visitor Counter Badge -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/LwandileNxumalo/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=LwandiNxumalo&color=blue&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
+<!-- Animated Header Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vcenter=true&width=500&lines=Hi+There!+I'm+Lwandile;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vcenter=true&width=600&lines=Hi+There!+I'm+Lwandile+Nxumalo;Software+Developer+%26+IT+Student;Passionate+about+System+Design+%26+Code" alt="Typing SVG" />
 </h1>
 
 ## 🚀 About Me
@@ -35,15 +35,22 @@ Click on any project badge below to view the repository or live site!
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
-| **Personal Portfolio Website** | Interactive portfolio website highlighting projects and virtual CV. | [<img src="https://img.shields.io/badge/View_Live-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" />](https://LwandileNxumalo.github.io/Portfolio-of-Virtual-resume/) |
-| **Python Practice Problems** | Collection of structured Python exercises and algorithmic solutions. | [<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/LwandileNxumalo/Python_Practice_Problems) |
+| **Personal Portfolio Website** | Interactive portfolio website highlighting projects and virtual CV. | [<img src="https://img.shields.io/badge/View_Live-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" />](https://LwandileNxumalo.github.io/Portfolio-of-Virtual-resume/)
 
 ---
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LwandileNxumalo&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LwandileNxumalo&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LwandiNxumalo&theme=dark" alt="GitHub Streak" height="58%" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LwandiNxumalo&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-45%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-25%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-15%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-5%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
